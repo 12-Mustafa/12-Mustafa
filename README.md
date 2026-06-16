@@ -73,7 +73,7 @@ Master's student in Germany with a background in Information Science & Engineeri
 
 ## Connect With Me
 
-📧 Email: mohamustafa.121201@gmail.com
+📧 [Email] (mohamustafa.121201@gmail.com)
 
 💼 [Linkedin](https://www.linkedin.com/in/mohammed-mustafa-1a8839236)
 ---
