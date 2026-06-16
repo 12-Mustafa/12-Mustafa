@@ -10,17 +10,15 @@ I enjoy transforming complex datasets into meaningful insights through SQL, Pyth
 
 ## About Me
 
-🎓 Master's Student in Germany
+🎓 Master's in Data Science, AI and Digital business
 
-🎓 Bachelor's Degree in Information Science & Engineering (Distinction)
-
-📊 Focused on Data Analytics, Business Intelligence, and Reporting
+🎓 Bachelor's in Information Science & Engineering (Distinction)
 
 📈 Experienced in Data Cleaning, Data Visualization, KPI Analysis, and Dashboard Development
 
-🤖 Strong academic foundation in Machine Learning and Predictive Analytics
+🤖 Strong foundation in Machine Learning and Predictive Analytics
 
-🌍 Open to internships and entry-level opportunities across Europe and the UAE
+🌍 Open to internships and entry-level opportunities
 
 ---
 
@@ -57,7 +55,7 @@ I enjoy transforming complex datasets into meaningful insights through SQL, Pyth
 
 ---
 
-## Featured Projects
+## Projects
 
 ### Sales Analytics Dashboard - [Sales Analysis](https://github.com/12-Mustafa/Sales-Analysis)
 
@@ -68,20 +66,9 @@ I enjoy transforming complex datasets into meaningful insights through SQL, Pyth
 
 ## Current Focus
 
-- Data Engineering Fundamentals
+- Data Engineering 
 - Analytics Engineering
 - German (Working proficiency)
-
----
-
-## Education
-
-### Master’s Degree
-Berlin, Germany
-
-### Bachelor’s Degree
-Information Science & Engineering
-Graduated with Distinction
 
 ---
 
