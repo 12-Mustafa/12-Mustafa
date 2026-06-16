@@ -75,8 +75,7 @@ Master's student in Germany with a background in Information Science & Engineeri
 
 📧 Email: mohamustafa.121201@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com/in/mohammed-mustafa-1a8839236?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2BfufKpYRQPu1PpcDweTbSQ%3D%3D
-
+💼 [Linkedin](https://www.linkedin.com/in/mohammed-mustafa-1a8839236)
 ---
 
 > Turning data into decisions through analytics, visualization, and business intelligence.
