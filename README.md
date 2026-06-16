@@ -29,7 +29,6 @@ I enjoy transforming complex datasets into meaningful insights through SQL, Pyth
 ### Languages
 - Python
 - SQL
-- R
 - Java
 
 ### Data Analytics
@@ -60,15 +59,9 @@ I enjoy transforming complex datasets into meaningful insights through SQL, Pyth
 
 ## Featured Projects
 
-### Sales Analytics Dashboard
-End-to-end sales analysis project featuring:
-- Data Cleaning
-- KPI Tracking
-- Revenue Analysis
-- Interactive Dashboard Development
+### Sales Analytics Dashboard - https://github.com/12-Mustafa/Sales-Analysis
 
-### Stock Price Prediction
-Machine learning project comparing multiple forecasting models and evaluating predictive performance.
+### Stock Price Prediction - https://github.com/12-Mustafa/Bitcoin-vs-Nvidia-Stock-Price-Prediction-
 
 ### News Classification using NLP
 Built a text classification model for automated news categorization using Natural Language Processing techniques.
