@@ -77,5 +77,3 @@ Master's student in Germany with a background in Information Science & Engineeri
 
 💼 [Linkedin](https://www.linkedin.com/in/mohammed-mustafa-1a8839236)
 ---
-
-> Turning data into decisions through analytics, visualization, and business intelligence.
