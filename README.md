@@ -59,29 +59,25 @@ I enjoy transforming complex datasets into meaningful insights through SQL, Pyth
 
 ## Featured Projects
 
-### Sales Analytics Dashboard - https://github.com/12-Mustafa/Sales-Analysis
+### Sales Analytics Dashboard - [Sales Analysis](https://github.com/12-Mustafa/Sales-Analysis)
 
-### Stock Price Prediction - https://github.com/12-Mustafa/Bitcoin-vs-Nvidia-Stock-Price-Prediction-
+### Stock Price Prediction -[Stocks NVDIA vs Bitcoin](https://github.com/12-Mustafa/Bitcoin-vs-Nvidia-Stock-Price-Prediction-)
 
-### News Classification using NLP
-Built a text classification model for automated news categorization using Natural Language Processing techniques.
 
 ---
 
 ## Current Focus
 
-- Advanced SQL
-- Power BI
-- Business Intelligence
 - Data Engineering Fundamentals
 - Analytics Engineering
+- German (Working proficiency)
 
 ---
 
 ## Education
 
 ### Master’s Degree
-Germany
+Berlin, Germany
 
 ### Bachelor’s Degree
 Information Science & Engineering
@@ -91,9 +87,9 @@ Graduated with Distinction
 
 ## Connect With Me
 
-📧 Email: your-email@example.com
+📧 Email: mohamustafa.121201@gmail.com
 
-💼 LinkedIn: your-linkedin-url
+💼 LinkedIn: https://www.linkedin.com/in/mohammed-mustafa-1a8839236?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2BfufKpYRQPu1PpcDweTbSQ%3D%3D
 
 ---
 
