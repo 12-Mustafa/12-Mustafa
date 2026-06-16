@@ -9,7 +9,7 @@ Master's student in Germany with a background in Information Science & Engineeri
 
 ## About Me
 
-🎓 Master's in Data Science, AI and Digital business
+🎓 Master's in Data Science, AI and Digital business (Expected 2026) 
 
 🎓 Bachelor's in Information Science & Engineering (Distinction)
 
