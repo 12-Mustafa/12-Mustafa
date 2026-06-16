@@ -4,7 +4,6 @@
 
 Master's student in Germany with a background in Information Science & Engineering and a strong interest in Data Analytics, Business Intelligence, and Data-Driven Decision Making.
 
-I enjoy transforming complex datasets into meaningful insights through SQL, Python, Power BI, and Machine Learning.
 
 ---
 
