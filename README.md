@@ -1,8 +1,8 @@
 # Hi there Mohammed Mustafa Here 👋
 
-## Data Analyst | Business Intelligence | Machine Learning
+## Ai Product managment | Data Analyst | Business Intelligence | Machine Learning
 
-Master's student in Germany with a background in Information Science & Engineering and a strong interest in Data Analytics, Business Intelligence, and Data-Driven Decision Making.
+Master's in Germany with a background in Information Science & Engineering and a strong interest in Data Analytics, Business Intelligence, and Data-Driven Product development.
 
 
 ---
